@@ -1,0 +1,5 @@
+numpy
+matplotlib
+qiskit>=1.0
+qiskit-aer
+qrcode
